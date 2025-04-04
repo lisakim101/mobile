@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/mobile/static/css/main.df56128b.css",
+    "main.js": "/mobile/static/js/main.f8de6500.js",
+    "static/media/background-gradient-web.png": "/mobile/static/media/background-gradient-web.1cb911c3e85700339a37.png",
+    "index.html": "/mobile/index.html",
+    "main.df56128b.css.map": "/mobile/static/css/main.df56128b.css.map",
+    "main.f8de6500.js.map": "/mobile/static/js/main.f8de6500.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.df56128b.css",
+    "static/js/main.f8de6500.js"
+  ]
+}
